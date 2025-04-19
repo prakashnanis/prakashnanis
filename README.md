@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Surya Prakash Thummalapalli
 
+<p align="center">
+  <img src="[https://example.com/your-image.jpg](https://media.licdn.com/dms/image/v2/D5603AQHpwQ3dzFaa2g/profile-displayphoto-shrink_800_800/B56ZYyvqEUH0Ag-/0/1744608076704?e=1750291200&v=beta&t=SKnm_31vnUJ4MXwSPUHpo382cWYdr0bqx351rxL51cs)" alt="Surya Prakash" width="200" style="border-radius: 50%;">
+</p>
+
+
 🚀 AI Solution Developer | Multi-Agent AI Enthusiast | Cloud & DevOps Practitioner
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Solution+Developer;Multi-Agent+AI+Builder;Cloud+Computing+Explorer;Open+Source+Contributor&font=Fira+Code&center=true&width=440&height=45&color=00ADB5)
