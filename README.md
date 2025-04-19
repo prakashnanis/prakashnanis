@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Surya Prakash Thummalapalli
 
-<p align="center">
+<div style="text-align: right;">
   <img src="profile.jpg" alt="Surya Prakash Thummalapalli" width="200" height="200" style="border-radius: 50%;">
-</p>
-
+</div>
 
 🚀 AI Solution Developer | Multi-Agent AI Enthusiast | Cloud & DevOps Practitioner
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Solution+Developer;Multi-Agent+AI+Builder;Cloud+Computing+Explorer;Open+Source+Contributor&font=Fira+Code&center=true&width=440&height=45&color=00ADB5)
+
 
 ---
 
