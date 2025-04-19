@@ -101,7 +101,7 @@ I'm deeply passionate about building AI-powered tools and cloud-native solutions
 
 - [LinkedIn](https://www.linkedin.com/in/surya-prakash-thummalapalli/)  
 - [GitHub](https://github.com/prakashnanis)  
-- Email: <prakashnani2018@gmail.com>
+- <prakashnani2018@gmail.com>
 
 ---
 
