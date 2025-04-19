@@ -104,8 +104,9 @@ I'm deeply passionate about building AI-powered tools and cloud-native solutions
 - <prakashnani2018@gmail.com>
 
 ---
+🏃‍♂️ Outside of work:  
+⚽ Playing Football | ✈️ Traveling | 🍳 Cooking | 🤖 Experimenting with AI tools
+---
 
 > 🧠 "Building intelligent systems that help humans do more with less – that's the future I'm creating."
 
-🏃‍♂️ Outside of work:  
-⚽ Playing Football | ✈️ Traveling | 🍳 Cooking | 🤖 Experimenting with AI tools
