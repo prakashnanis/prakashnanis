@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Surya Prakash Thummalapalli
 
-<div style="text-align: right;">
-  <img src="profile.jpg" alt="Surya Prakash Thummalapalli" width="200" height="150" style="border-radius: 50% / 30%;">
-</div>
-
 
 🚀 AI Solution Developer | Multi-Agent AI Enthusiast | Cloud & DevOps Practitioner
 
